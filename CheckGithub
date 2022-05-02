@@ -1,2 +1,4 @@
 console.log("hello world")
 console.log("This is github sample")
+console.log("This is github sample repository")
+console.log("This is github sample remote repository changes")
